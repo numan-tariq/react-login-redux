@@ -1,20 +1,6 @@
-# react-counter-app-redux
+# react-login-redux
 
-React Counter App with Redux application is dedicated to Increment or Decrement the value.
+React Login App is dedicated to store your credentials with redux.
 
-![Screenshot of Application Frontend](https://i.ibb.co/G2T1Yfg/Screenshot-2021-06-01-at-6-26-38-PM.png)
-
-## Functionalities
-
-- Increment Button
-    - Increment by 1.
-    
-- Decrement Button
-    - Decrement by 1.
-    
-- Increment By 5 Button
-    - Increment by 5.
-
-- Toggle Button
-    - Show Value.
-    - Hide Value.
+![Screenshot of Application Frontend](https://i.ibb.co/HXkwNvx/Screenshot-2021-06-02-at-4-32-25-PM.png)
+![Screenshot of Application Frontend](https://i.ibb.co/FK0yQJf/Screenshot-2021-06-02-at-4-32-38-PM.png)
